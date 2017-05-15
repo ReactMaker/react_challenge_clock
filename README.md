@@ -1,9 +1,8 @@
-
-### [ReactMaker - react clock example](https://reactmaker.github.io/react_challenge_clock/#/)
-
 # React clock 
 
 這是一個使用 React 做出時鐘的範例。
+
+### [Demo](https://reactmaker.github.io/react_challenge_clock/#/)
 
 ## 特色
 
@@ -22,8 +21,8 @@
 先確定好安裝了 node 4.5 以上的版本，接著就可以輸入以下指令
 
 ```bash
-$ git clone https://github.com/ReactMaker/simple_react_start_kit_2017
-$ cd simple_react_start_kit_2017
+$ git clone https://github.com/ReactMaker/react_challenge_clock
+$ cd react_challenge_clock
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
@@ -31,6 +30,7 @@ $ npm start                     # Compile and launch
 如果一切成功，就會看到以下畫面，並且瀏覽器會打開的範例頁面
 
 ![Imgur](http://i.imgur.com/14aROBn.png)
+![Clock example](https://i.imgur.com/e5T0SlV.png)
 
 開發當中最常用到的是 `npm start` 指令，我們還有一些其他的指令要介紹給你知道
 
